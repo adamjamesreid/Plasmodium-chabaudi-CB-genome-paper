@@ -1,6 +1,6 @@
 #  Plasmodium-chabaudi-CB-genome-paper
 
-# Raw data from parasitological experiments
+## Raw data from parasitological experiments
 Figure 1A.xlsx - Parasitemias for PcAS and PcCB in mosquito-transmitted infections
 Percentage of infected red blood cells counted in Giemsa stained thin blood films prepared from mice infected with PcCB and PcAS by mosquito bite, days 3-12 post-liver stage infection (i.e. days 5-14 post-mosquito bite)
 
