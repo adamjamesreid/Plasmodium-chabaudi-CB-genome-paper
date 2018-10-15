@@ -16,6 +16,26 @@ Relative ratios of parasite sequestration in different organs
 
 Total flux (p/s) in the perfused ex vivo organs (raw data columns C-E) normalised to the peripheral blood luciferase activity (RLU) at late trophozoite stage (9:00am, column F; normalised data, columns G-I), days 6 and 9 post-liver stage infection (i.e. days 8 and 11 post-mosquito bite)
 
+## Uncropped images 
+* **as-d7-1.tif**
+Giemsa-stained blood smear of serially-blood passaged PcAS at day 7 post infection
+
+* **as-d7-2.tif**
+Giemsa-stained blood smear of serially-blood passaged PcAS at day 7 post infection
+
+* **as-d7-3.tif**
+Giemsa-stained blood smear of serially-blood passaged PcAS at day 7 post infection
+
+* **cb-d7-1.tif**
+Giemsa-stained blood smear of serially-blood passaged PcCB at day 7 post infection
+
+* **cb-d7-2.tif**
+Giemsa-stained blood smear of serially-blood passaged PcCB at day 7 post infection
+
+* **cb-d7-3.tif**
+Giemsa-stained blood smear of serially-blood passaged PcCB at day 7 post infection
+
+
 ## Raw data from sequencing experiments
 * **AS_fpkm.txt**
 Normalised RNA-seq expression levels from PcAS infections
